@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC402: Global Justice"
+course_description: "An examination of the methods in which economics and politics influence each other when creating policy. Focuses on the international organizations designed to facilitate global economic stability, including the World Trade Organization (WTO) and the International Monetary Fund (IMF)."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Monetary Systems and Currency Regimes** <span id="4"></span> 
 *In Unit 4, you will learn about the international monetary system and
 exchange rate regimes.  The globalization of trade and production has

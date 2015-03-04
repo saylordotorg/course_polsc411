@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC402: Global Justice"
+course_description: "An examination of the methods in which economics and politics influence each other when creating policy. Focuses on the international organizations designed to facilitate global economic stability, including the World Trade Organization (WTO) and the International Monetary Fund (IMF)."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Human Rights and Basic Needs** <span id="5"></span> 
 *While some insist that globalization has lifted millions of people out
 of poverty, others draw attention to the darker aspects of

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC402: Global Justice"
+course_description: "An examination of the methods in which economics and politics influence each other when creating policy. Focuses on the international organizations designed to facilitate global economic stability, including the World Trade Organization (WTO) and the International Monetary Fund (IMF)."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Final Exam** <span id="6"></span> 
 -   **Final Exam: The Saylor Foundation's POLSC411 Final Exam**
     Link: The Saylor Foundation's [POLSC411 Final

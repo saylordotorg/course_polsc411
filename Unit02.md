@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC402: Global Justice"
+course_description: "An examination of the methods in which economics and politics influence each other when creating policy. Focuses on the international organizations designed to facilitate global economic stability, including the World Trade Organization (WTO) and the International Monetary Fund (IMF)."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Trade** <span id="2"></span> 
 *Unit 2 will explore the ways in which domestic politics influences a
 state’s policies abroad.  In Unit 1, you learned how economic policy has
