@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "POLSC402: Global Justice"
+title: "POLSC411: International Political Economy"
 course_description: "An examination of the methods in which economics and politics influence each other when creating policy. Focuses on the international organizations designed to facilitate global economic stability, including the World Trade Organization (WTO) and the International Monetary Fund (IMF)."
 next: ../Unit06
 previous: ../Unit04
