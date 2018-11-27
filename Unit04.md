@@ -139,7 +139,7 @@ id="4.1.3"></span> 
     Policy Effects with Floating Exchange Rates”**
     Link: *International Economics: Theory and Policy*: [“Chapter 21:
     Policy Effects with Floating Exchange
-    Rates”](http://www.saylor.org/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
+    Rates”](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
         
      Instructions: Please read this introduction in its entirety.  We
     now turn our attention to how exchange rates are maintained and
@@ -213,12 +213,12 @@ in a handful of countries.*
 **Unit Four Quiz** <span id="4.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Quiz”**
     Link: The Saylor Foundation’s [“Unit 4
-    Quiz”](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Four-Quiz.pdf)
+    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Four-Quiz.pdf)
     (PDF)  
         
      Instructions: Please take this short quiz.  When you are finished,
     compare your answers to The Saylor Foundation’s [“Unit 4 Quiz
-    Answers](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Four-Quiz-Answers.pdf)[.”](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Four-Quiz-Answers.pdf)
+    Answers](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Four-Quiz-Answers.pdf)[.”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Four-Quiz-Answers.pdf)
     (PDF)
 
 
