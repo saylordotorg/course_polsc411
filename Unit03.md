@@ -193,12 +193,12 @@ id="3.2"></span> 
 **3.5 Sovereign Debt** <span id="3.5"></span> 
 -   **Reading: The World Bank’s “Roundtable on Odious Debt”**
     Link: The World Bank’s “[Roundtable on Odious
-    Debt](http://www.saylor.org/site/wp-content/uploads/2011/08/Polsc411-3.4-OdiousDebtPaper.pdf)”
+    Debt](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc411-3.4-OdiousDebtPaper.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/Polsc411-3.4-OdiousDebtPaper-epub.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc411-3.4-OdiousDebtPaper-epub.epub)  
         
      Instructions:  Go to this webpage and download “Bank's Odious Debt
     Paper” near the bottom of the page.  This is an Adobe Acrobat file
@@ -235,13 +235,13 @@ id="3.2"></span> 
 **Unit Three Quiz** <span id="3.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Quiz”**
     Link: The Saylor Foundation’s [“Unit 3
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz.pdf)
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz.pdf)
     (PDF)  
         
      Instructions: Please take the short quiz above.  When you are
     finished, compare your answers to The Saylor Foundation’s [“Unit 3
     Quiz
-    Answers](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz-Answers.pdf)[.”](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz-Answers.pdf)
+    Answers](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz-Answers.pdf)[.”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Three-Quiz-Answers.pdf)
     (PDF)
 
 

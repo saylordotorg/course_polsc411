@@ -288,12 +288,12 @@ id="5.3"></span> 
 **Unit Five Quiz** <span id="5.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 5 Quiz”**
     Link: The Saylor Foundation’s [“Unit 5
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz.pdf)[”](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz.pdf)
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz.pdf)
     (PDF)  
         
      Instructions: Please take this short quiz.  When you are finished,
     compare your answers to The Saylor Foundation’s [“Unit 5 Quiz
-    Answers](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz-Answers.pdf)[.”](http://www.saylor.org/site/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz-Answers.pdf)
+    Answers](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz-Answers.pdf)[.”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Five-Quiz-Answers.pdf)
     (PDF)
 
 
