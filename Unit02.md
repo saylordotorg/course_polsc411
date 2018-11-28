@@ -65,9 +65,9 @@ Upon successful completion of this unit, the student will be able to:
     Links: *International Economics: Theory and Policy*: Chapter 1:
     Introductory Trade Issues: History, Institutions, and Legal
     Framework: [“Section 1: The International Economy and International
-    Economics”](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)
+    Economics”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)
     and [“Section 2: Understanding
-    Tariffs”](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
+    Tariffs”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
         
      Instructions: Please read these sections in their entirety.  Trade
     between countries is one of the foundations of human interaction. 
@@ -107,7 +107,7 @@ Upon successful completion of this unit, the student will be able to:
     Introductory Trade Issues: History, Institutions, and Legal
     Framework: [“Section 4: The Great Depression, Smoot-Hawley, and the
     Reciprocal Trade Agreements
-    Act](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)”
+    Act](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)”
     (PDF)  
         
      Instructions: Please read this section in its entirety.  The author
@@ -144,7 +144,7 @@ Upon successful completion of this unit, the student will be able to:
     Political Economy and International Trade, Sections 2-7”**
     Link: *International Economics: Theory and Policy*: Chapter 10:
     Political Economy and International Trade: [“Sections
-    2-7”](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)
+    2-7”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)
     (PDF)  
         
      Instructions: Please read these sections in their entirety.  The
@@ -223,7 +223,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *International Economics: Theory and Policy*: Chapter 9: Trade
     Policies with Market Imperfections and Distortions: [“Section 10:
     Economic Integration: Free Trade Areas, Trade Creation, and Trade
-    Division”](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
+    Division”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
         
      Instructions: Please read this section in its entirety.  Now that
     we’ve studied the scope and nature of restrictions to trade, we turn
@@ -265,7 +265,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: *International Economics: Theory and Policy*: Chapter 1:
     Introductory Trade Issues: History, Institutions, and Legal
     Framework: [“Sections
-    5-7”](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)
+    5-7”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)
     (PDF)  
         
      Instructions: Please click on the link above and read each section
@@ -335,12 +335,12 @@ Upon successful completion of this unit, the student will be able to:
 **Unit 2 Quiz** <span id="2.3"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Quiz”**
     Link: The Saylor Foundation’s [“Unit 2
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz.pdf)
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz.pdf)
     (PDF)  
         
      Instructions: Please take this short quiz.  When you are finished,
     compare your answers to The Saylor Foundation’s [“Unit 2 Quiz
-    Answers](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz-Answers.pdf)[.”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz-Answers.pdf)
+    Answers](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz-Answers.pdf)[.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/POLSC411-Unit-Two-Quiz-Answers.pdf)
     (PDF)
 
 

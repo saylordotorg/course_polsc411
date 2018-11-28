@@ -51,7 +51,7 @@ id="1.1"></span> 
     Overview”**
     Link: *International Economics: Theory and Policy*: Chapter 10:
     Political Economy and International Trade: [“Section 1: Chapter
-    Overview”](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
+    Overview”](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf) (PDF)  
         
      Instructions: We start off our course defining Political Economy as
     a cross discipline of political science and economics. Please read
@@ -95,7 +95,7 @@ id="1.1"></span> 
     Theory of Hegemonic Stability”**
     Link: Mount Holyoke College: Professor Vincent Ferraro’s “[The
     Theory of Hegemonic
-    Stability](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc411-Reading-1.2.pdf)”
+    Stability](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Polsc411-Reading-1.2.pdf)”
     (PDF)  
         
      Instructions: Read through the entire notes.  Pay close attention
@@ -111,12 +111,12 @@ id="1.1"></span> 
     Link: Johns Hopkins School of Advanced International Studies:
     Professor Vincent Ferraro’s version of W. Max Corden’s “[American
     Decline and the End of
-    Hegemony](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc411-Reading-1.2-Corden.pdf)”
+    Hegemony](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Polsc411-Reading-1.2-Corden.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Plsc411-Reading-1.2-Corden-Max-Corden.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Plsc411-Reading-1.2-Corden-Max-Corden.epub)  
         
      Instructions: Read through the entire article.  Take note of how
     the author analyzes the role of the US budget deficit in 1990 as a
@@ -277,11 +277,11 @@ id="1.1"></span> 
 **Unit One Quiz** <span id="1.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Quiz”**
     Link: The Saylor Foundation’s [“Unit 1
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-One-Quiz.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/POLSC411-Unit-One-Quiz.pdf) (PDF)  
       
      Instructions: Please take this short quiz.  When you are finished,
     compare your answers to The Saylor Foundation’s “[Unit 1 Quiz
-    Answers](https://resources.saylor.org/archived/wp-content/uploads/2011/06/POLSC411-Unit-One-Quiz-Answers.pdf).”
+    Answers](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/POLSC411-Unit-One-Quiz-Answers.pdf).”
     (PDF)  
 
 
