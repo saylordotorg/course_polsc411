@@ -75,7 +75,7 @@ computer.
 √    Be competent in the English language.  
   
  √    Have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
  √    Have completed the following courses: [ECON101: Principles of
 Microeconomics](http://www.saylor.org/courses/econ101/); [ECON102:
@@ -97,7 +97,7 @@ following materials:
 -   iTunes U: Middlebury College: James Morrison’s *International
     Political Economics*
 -   [*International Economics: Theory and
-    Policy*](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)
+    Policy*](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)
 
 **Requirements for Completion**: In order to complete this course, you
 will need to work through each unit and all of its assigned materials.
@@ -150,7 +150,7 @@ the Final Exam.
     as you progress through each resource box below.  
       
      Link: *[International Economics: Theory and
-    Policy](https://resources.saylor.org/archived/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)* (PDF)  
+    Policy](https://resources.saylor.org/wwwresources/archived/site/textbooks/International%20Economics%20-%20Theory%20and%20Policy.pdf)* (PDF)  
       
      Terms of Use: This text was adapted by The Saylor Foundation under
     a [Creative Commons Attribution-NonCommercial-Share-Alike 3.0
